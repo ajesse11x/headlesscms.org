@@ -9,7 +9,7 @@
     "serve": "serve dist -p 3000"
   },
   "dependencies": {
-    "@octokit/rest": "^14.0.9",
+    "@octokit/rest": "^16.33.1",
     "date-fns": "^1.29.0",
     "dotenv": "^5.0.0",
     "gray-matter": "^3.1.1",
